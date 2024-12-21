@@ -1,8 +1,8 @@
 # EXPERIMENT 2-Control of Relay Using IoT controller
 
-NAME:M. Hariharan
+NAME: M. Hariharan
 
-REG NO:24900770
+REG NO: 24900770
 
 ##  AIM:
 To control the Relay using Arduino controller
